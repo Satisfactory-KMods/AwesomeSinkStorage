@@ -1,11 +1,11 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.1",
-	"SemVersion": "1.1.1",
+	"VersionName": "1.2.0",
+	"SemVersion": "1.2.0",
 	"FriendlyName": "AwesomeSinkStorage",
 	"Description": "",
-	"Category": "Other",
+	"Category": "Modding",
 	"CreatedBy": "Kyri123",
 	"CreatedByURL": "",
 	"DocsURL": "",
@@ -18,12 +18,12 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.4.1",
+			"SemVersion": "^3.5.0",
 			"Enabled": true
 		},
 		{
 			"Name": "KLib",
-			"SemVersion": "^2.7.3",
+			"SemVersion": "^3.0.0",
 			"bIsOptional": false,
 			"bIsBasePlugin": false,
 			"Enabled": true
